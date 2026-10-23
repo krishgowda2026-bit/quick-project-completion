@@ -14,7 +14,8 @@ export const THERAPY_AREAS = [
   { name: "Gastroenterology", text: "Formulations for digestive and gastric conditions." },
 ];
 
-export const productImages = Array.from(
-  { length: 36 },
-  (_, i) => `https://shinemaxpharma.net/images/products/${String(i + 1).padStart(2, "0")}.png`,
-);
+const imageAssets = import.meta.glob<{ default: { url: string } }>("../assets/product-*.asset.json", { eager: true });
+export function productImage(id: number) {
+  return imageAssets[`../assets/product-${String(id).padStart(2, "0")}.png.asset.json`]?.default.url;
+}
+export const productImages = Array.from({ length: 37 }, (_, i) => productImage(i + 1));
