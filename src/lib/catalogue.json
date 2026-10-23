@@ -1,0 +1,261 @@
+[
+  {
+    "id": 4,
+    "name": "Pioshine 15",
+    "form": "Tablet",
+    "composition": "Pioglitazone 15 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 5,
+    "name": "Dapaflex 10 / Dapaflex M",
+    "form": "Tablet",
+    "composition": "Dapagliflozin 10 mg \u00b7 Dapagliflozin 10 mg + Metformin 500 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 6,
+    "name": "Dapaflex S",
+    "form": "Tablet",
+    "composition": "Dapagliflozin 10 mg + Sitagliptin 100 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 7,
+    "name": "Vildarose 50",
+    "form": "Tablet",
+    "composition": "Vildagliptin 50 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 8,
+    "name": "Vildarose-M 500",
+    "form": "Tablet",
+    "composition": "Vildagliptin 50 mg + Metformin 500 mg SR",
+    "category": "Diabetology"
+  },
+  {
+    "id": 9,
+    "name": "Glimeshine M1",
+    "form": "Tablet",
+    "composition": "Glimepiride 1 mg + Metformin HCl 500 mg SR",
+    "category": "Diabetology"
+  },
+  {
+    "id": 10,
+    "name": "Glimeshine M2",
+    "form": "Tablet",
+    "composition": "Glimepiride 2 mg + Metformin HCl 500 mg SR",
+    "category": "Diabetology"
+  },
+  {
+    "id": 11,
+    "name": "Glimeshine M1 Forte",
+    "form": "Tablet",
+    "composition": "Glimepiride 1 mg + Metformin 1000 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 12,
+    "name": "Glimeshine M2 Forte",
+    "form": "Tablet",
+    "composition": "Glimepiride 2 mg + Metformin 1000 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 13,
+    "name": "Glimeshine MP1",
+    "form": "Tablet",
+    "composition": "Glimepiride 1 mg + Metformin HCl 500 mg SR + Pioglitazone HCl 15 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 14,
+    "name": "Glimeshine MP2",
+    "form": "Tablet",
+    "composition": "Glimepiride 2 mg + Metformin HCl 500 mg SR + Pioglitazone HCl 15 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 15,
+    "name": "Vogmax 0.2",
+    "form": "Tablet",
+    "composition": "Voglibose 0.2 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 16,
+    "name": "Vogmax 0.3",
+    "form": "Tablet",
+    "composition": "Voglibose 0.3 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 17,
+    "name": "Vogmax GM1",
+    "form": "Tablet",
+    "composition": "Voglibose 0.2 mg + Glimepiride 1 mg + Metformin HCl 500 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 18,
+    "name": "Vogmax GM2",
+    "form": "Tablet",
+    "composition": "Voglibose 0.2 mg + Glimepiride 2 mg + Metformin HCl 500 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 25,
+    "name": "Tenliflex 20",
+    "form": "Tablet",
+    "composition": "Teneligliptin 20 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 26,
+    "name": "Tenliflex-M",
+    "form": "Tablet",
+    "composition": "Teneligliptin 20 mg + Metformin 500 mg",
+    "category": "Diabetology"
+  },
+  {
+    "id": 34,
+    "name": "Nutrishine-D",
+    "form": "Powder",
+    "composition": "Diabetic protein powder",
+    "category": "Diabetology"
+  },
+  {
+    "id": 1,
+    "name": "Rosuvamax 10",
+    "form": "Tablet",
+    "composition": "Rosuvastatin 10 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 2,
+    "name": "Rosuvamax F",
+    "form": "Tablet",
+    "composition": "Rosuvastatin 10 mg + Fenofibrate 160 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 3,
+    "name": "Rosuvamax Gold",
+    "form": "Tablet",
+    "composition": "Rosuvastatin 10 mg + Aspirin 75 mg + Clopidogrel 75 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 19,
+    "name": "Telmishine 20",
+    "form": "Tablet",
+    "composition": "Telmisartan 20 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 20,
+    "name": "Telmishine 40",
+    "form": "Tablet",
+    "composition": "Telmisartan 40 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 21,
+    "name": "Telmishine-H",
+    "form": "Tablet",
+    "composition": "Telmisartan 40 mg + Hydrochlorothiazide 12.5 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 22,
+    "name": "Telmishine-AM",
+    "form": "Tablet",
+    "composition": "Telmisartan 40 mg + Amlodipine 5 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 23,
+    "name": "Telmishine-MT 25/50",
+    "form": "Tablet",
+    "composition": "Telmisartan 40 mg + Metoprolol Succinate 25 mg / 50 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 24,
+    "name": "Telmishine-AMH",
+    "form": "Tablet",
+    "composition": "Telmisartan 40 mg + Amlodipine 5 mg + Hydrochlorothiazide 12.5 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 27,
+    "name": "Amlored 5",
+    "form": "Tablet",
+    "composition": "Amlodipine Besylate 5 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 28,
+    "name": "Amlored AT",
+    "form": "Tablet",
+    "composition": "Amlodipine Besylate 5 mg + Atenolol 50 mg",
+    "category": "Cardiology"
+  },
+  {
+    "id": 29,
+    "name": "Rejushine OD",
+    "form": "Capsule",
+    "composition": "Methylcobalamin 1500 mcg + ALA 100 mg + Folic Acid 1.5 mg + Pyridoxine 3 mg",
+    "category": "General Medicine"
+  },
+  {
+    "id": 30,
+    "name": "Rejushine PG",
+    "form": "Capsule",
+    "composition": "Methylcobalamin 750 mcg + Pregabalin 75 mg SR",
+    "category": "General Medicine"
+  },
+  {
+    "id": 31,
+    "name": "Pancept 40",
+    "form": "Tablet",
+    "composition": "Pantoprazole 40 mg",
+    "category": "General Medicine"
+  },
+  {
+    "id": 32,
+    "name": "Pancept DSR",
+    "form": "Capsule",
+    "composition": "Pantoprazole 40 mg + Domperidone 30 mg SR",
+    "category": "General Medicine"
+  },
+  {
+    "id": 33,
+    "name": "Nutrishine",
+    "form": "Powder",
+    "composition": "Protein powder",
+    "category": "General Medicine"
+  },
+  {
+    "id": 35,
+    "name": "Ferishine",
+    "form": "Syrup",
+    "composition": "Ferrous Ascorbate eq. to elemental Iron 30 mg + Folic Acid 0.75 mg + Cyanocobalamin 6 mcg + Elemental Zinc 11 mg",
+    "category": "General Medicine"
+  },
+  {
+    "id": 36,
+    "name": "Ferishine-XT",
+    "form": "Tablet",
+    "composition": "Ferrous Bisglycinate 60 mg + Zinc Bisglycinate 15 mg + Folic Acid 1 mg + Methylcobalamin 500 mcg",
+    "category": "General Medicine"
+  },
+  {
+    "id": 37,
+    "name": "D3-Bind",
+    "form": "Chewable tablet",
+    "composition": "Cholecalciferol 60,000 IU",
+    "category": "General Medicine"
+  }
+]
